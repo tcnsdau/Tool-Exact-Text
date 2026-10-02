@@ -1,0 +1,7 @@
+{
+  "name": "AI Document & Image Text Extractor",
+  "description": "Trích xuất và tinh chỉnh văn bản từ hình ảnh và file PDF bằng AI",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
